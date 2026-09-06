@@ -1,6 +1,6 @@
 # Cloak
 
-![logo](./app-icon.png)
+![logo](src-tauri/icons/128x128.png)
 
 Cloak : a Client for clash-rs
 
